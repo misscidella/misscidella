@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misscidella
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning html,css and js
 
 
 <!---
